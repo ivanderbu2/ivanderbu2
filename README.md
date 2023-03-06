@@ -12,6 +12,7 @@ When not working for my clients, I develop my SaaS solutions. I am the editor of
 - :fireworks: 10.000+ hours worked on [UpWork](https://www.upwork.com/freelancers/ivanradunovic), 100% job success score
 - :computer: Vast experience in Laravel, Vue, and Node frameworks.
 - :bulb: Know-how for every stage of project development, from MVP to the scaling phase.
+- :star2: Running [Codingo](https://codingo.me) software development agency.
 - :rocket: Recently launched in-house SaaS projects: [Niched AI](https://niched.ai) and [WPJack](https://wpjack.com)
 
 
