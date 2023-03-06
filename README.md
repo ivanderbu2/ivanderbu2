@@ -1,16 +1,18 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=ivanderbu2&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!--
-**ivanderbu2/ivanderbu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there 👋 
 
-Here are some ideas to get you started:
+I am Software Architect with significant experience designing custom applications using technologies like Laravel, Vue.js, Neo4j, and Node.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When not working for my clients, I develop my SaaS solutions. I am the editor of multiple blogs related to AI, WordPress, and SaaS topics.
+
+**About me**
+
+- :briefcase: 11+ years of experience in creating software and SaaS products.
+- :fireworks: 10.000+ hours worked on [UpWork](https://www.upwork.com/freelancers/ivanradunovic), 100% job success score
+- :computer: Vast experience in Laravel, Vue, and Node frameworks.
+- :bulb: Know-how for every stage of project development, from MVP to the scaling phase.
+- :rocket: Recently launched in-house SaaS projects: [Niched AI](https://niched.ai) and [WPJack](https://wpjack.com)
+
+
+
