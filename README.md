@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=ivanderbu2&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ### Hey there 👋 
 
 I am Software Architect with significant experience designing custom applications using technologies like Laravel, Vue.js, Neo4j, and Node.
