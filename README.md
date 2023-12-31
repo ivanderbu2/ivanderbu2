@@ -12,9 +12,9 @@ When not working for my clients, I develop my SaaS solutions. I am the editor of
 - :bulb: Know-how for every stage of project development, from MVP to the scaling phase.
 - :star2: Running [Codingo](https://codingo.me) software development agency.
 - :rocket: My SaaS projects:
-  - [Niched AI](https://niched.ai)
-  - [WPJack](https://wpjack.com)
-  - [Jetindexer](https://jetindexer.com)
+  - [:link: Niched AI](https://niched.ai) - :octocat: https://github.com/NichedAI
+  - [:link: WPJack](https://wpjack.com) - :octocat: https://github.com/WPJackcom
+  - [:link: Jetindexer](https://jetindexer.com) - :octocat: https://github.com/jetindexer
 
 
 
