@@ -6,7 +6,7 @@ When not working for my clients, I develop my SaaS solutions. I am the editor of
 
 **About me**
 
-- :briefcase: 12+ years of experience in creating software and SaaS products.
+- :briefcase: 13+ years of experience in creating software and SaaS products.
 - :fireworks: 10.000+ hours worked on [UpWork](https://www.upwork.com/freelancers/ivanradunovic), 100% job success score
 - :computer: Vast experience in Laravel, Vue, and Node frameworks.
 - :bulb: Know-how for every stage of project development, from MVP to the scaling phase.
